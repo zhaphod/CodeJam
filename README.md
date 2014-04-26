@@ -20,9 +20,9 @@ For the list of all problems, visit the official [Google CodeJam website] (<http
 Books
 -----
 
-* Introduction to Algorithms 3rd edition (<http://goo.gl/ptWLcy>)
-* Algorithms sedgewick (<http://goo.gl/eZcvHc>)
-* Algorithm Design Manual (<http://goo.gl/0cMgVJ>)
+* [Introduction to Algorithms 3rd edition] (<http://goo.gl/ptWLcy>)
+* [Algorithms] (<http://goo.gl/eZcvHc>)
+* [Algorithm Design Manual] (<http://goo.gl/0cMgVJ>)
 
 
 License
