@@ -27,4 +27,4 @@ Books
 
 License
 -------
-This content is released under the (http://opensource.org/licenses/MIT) MIT License.
+Copyright (c) 2013-2014 Srinivas Kowtal. Licensed under [the MIT license](http://opensource.org/licenses/MIT).
